@@ -1,0 +1,12 @@
+{
+  "name": "CORNA",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/huskylin/CORNA",
+  "author": "Kyouken <yogapan85321@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
