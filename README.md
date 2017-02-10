@@ -1,3 +1,6 @@
+## Install Dependencies
+`$ npm install` or `$ yarn install`
+
 ## How to Build
 `$ npm run build` or  `$ yarn run build`
 
